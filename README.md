@@ -2,7 +2,7 @@
 
 ## Intro
 
-The lab exercise in the [MIT course 6.824]("https://pdos.csail.mit.edu/6.824/index.html")
+The lab exercise in the [MIT course 6.824](https://pdos.csail.mit.edu/6.824/index.html)
 
 ## Complete list
 
